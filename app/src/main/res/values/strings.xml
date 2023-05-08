@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab1, Рудь А.Д., ИТ-621м</string>
+    <string name="save_button_text">Сохранить</string>
+    <string name="show_button_text">Посмотреть</string>
+    <string name="add_button_text">Добавить</string>
+    <string name="delete_button_text">Удалить</string>
+    <string name="cancel_button_text">Отмена</string>
+</resources>
